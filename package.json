@@ -1,11 +1,11 @@
 {
   "name": "nodets-canil",
   "version": "1.0.0",
-  "description": "",
+  "description": "Projeto feito no módulo do curso Node + TS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon -e ts,json,mustache src/server.ts"
+    "start-dev": "nodemon -e ts,json,mustache src/server.ts"
   },
   "keywords": [],
   "author": "",
